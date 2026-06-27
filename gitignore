@@ -1,0 +1,18 @@
+# Gmail API secrets — never commit
+credentials.json
+token.json
+token.pickle
+
+# Downloaded data
+*.txt
+*.gz
+vald_ll/
+vald_gzip/
+*.vald
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
